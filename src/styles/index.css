@@ -1,0 +1,22 @@
+html {
+  --white-color: #fff;
+  --black-color: #000;
+  --gray-color: #e0e0e0;
+  --green-light-color: #e6f1f6;
+}
+
+body {
+  background-color: #e0e0e0;
+  margin: 2rem;
+  direction: ltr;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
